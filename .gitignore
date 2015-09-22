@@ -56,3 +56,6 @@ java/*.iml
 java/target
 **/*.pyc
 .idea
+*.n
+tests/HaxeTest.js
+tests/HaxeTest/
